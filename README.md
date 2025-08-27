@@ -10,3 +10,13 @@ python -m venv .venv
 pip install -r requirements.txt
 
 python app.py
+
+
+
+For Frontend :-
+
+cd frontend
+
+npm install
+
+npm run dev
